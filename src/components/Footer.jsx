@@ -6,7 +6,7 @@ function Footer(){
     return(
         <footer>
             <p>Made with 🤍</p>
-            &copy; <a href="https://github.com/MansiRamtekkar">Mansi Ramtekkar</a> {year}
+            &copy; <a href="https://github.com/MansiRamtekkar" target={"_blank"} rel="noreferrer">Mansi Ramtekkar</a> {year}
         </footer>
     )
 }
