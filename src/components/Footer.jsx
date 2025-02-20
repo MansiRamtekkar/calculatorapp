@@ -5,7 +5,7 @@ function Footer(){
 
     return(
         <footer>
-            &copy; <a href="https://github.com/MansiRamtekkar" rel="noreferrer" target="_blank">Mansi Ramtekkar</a> {year}
+            &copy; <a href="https://github.com/MansiRamtekkar" rel="noreferrer" target="_blank">Mansi Ramtekkar 2022</a>
         </footer>
     )
 }
